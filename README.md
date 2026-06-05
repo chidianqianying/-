@@ -97,5 +97,6 @@ encrypt_pan/
 本项目仅用于**个人隐私保护学习与技术交流**，请勿用于存储或传播违法内容。开发者不对因使用本项目产生的任何后果负责。
 
 ---
+演示站点https://test.chidianqianying.dpdns.org/
 
 **v这是版本号 | by 赤电の前影 | kimi2.6**
